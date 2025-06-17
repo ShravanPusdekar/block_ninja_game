@@ -1,2 +1,4 @@
-# block_ninja_game
-A project made for internship. This is similar to fruit ninja
+# BlockNinja
+A clone game of Fruit Ninja
+
+Demo: <code><a href="https://ishaanSh06.github.io/BlockNinja/">https://ishaanSh06.github.io/BlockNinja/</a></code>
